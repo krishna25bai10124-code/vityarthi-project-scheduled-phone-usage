@@ -38,9 +38,13 @@ It is very flexible, even though the logic is basic and simple.
 ## Concepts Used
 
 While making this project, I mainly used:
+
 1.basic functions
+
 2.if-else conditions
+
 3.user input
+
 4.basic understanding of time
 5.simple program flow
 
