@@ -46,7 +46,8 @@ While making this project, I mainly used:
 3. user input
 
 4. basic understanding of time
-5.simple program flow
+   
+5. simple program flow
 
 ## What I Learned
 
