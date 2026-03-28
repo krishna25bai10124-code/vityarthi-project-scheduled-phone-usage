@@ -19,7 +19,9 @@ Honestly, I think it’s a small idea, but it connects really well to our real a
 Setting this project up is actually very easy. 
 Firstly, one just needs to make sure Python is installed on his/her system. Most laptops already have it, but if you’re not sure, you can check by opening the terminal or command prompt.
 If it shows a version number, you can proceed. If not, you’ll have to install Python once.
-After that, download the project files or clone the repository from GitHub that I have posted. Once the files are on your system, open that folder in your terminal.
+After that, download the project files or clone the repository from GitHub that I have posted, that can be started using the link given below:
+https://github.com/krishna25bai10124-code/vityarthi-project-scheduled-phone-usage 
+Once the files are on your system, open that folder in your terminal.
 Then just run the main file using:
 python main.py
 It was intentionally kept simple so that even beginners don’t face any issues while running it and can immediately understand the code written.
